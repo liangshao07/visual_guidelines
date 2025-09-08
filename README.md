@@ -1,6 +1,15 @@
 # GitHub Open Source Project Visual Content Guidelines
 
+<div align="center">
+
+![Version](https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge)
+
+**[中文](./VISUAL_GUIDELINES_CN.md)** | **English**
+
 This document summarizes the widely recognized visual content standards for GitHub open source projects, helping projects create professional and consistent visual presentations.
+
+</div>
 
 ## 📋 Table of Contents
 
